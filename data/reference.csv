@@ -1,0 +1,4 @@
+param_name,value,unit,description
+labor_cost_per_hour,1500,RUB,Стоимость часа разработчика
+server_cost_per_month,50000,RUB,Стоимость аренды сервера
+electricity_cost_per_kwh,7,RUB,Тариф на электроэнергию

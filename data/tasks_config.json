@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {"id": 1, "name": "attention_economy", "description": "Экономика внимания"},
+    {"id": 2, "name": "cocomo_calculation", "description": "Расчет COCOMO"},
+    {"id": 3, "name": "tco_analysis", "description": "TCO анализ"},
+    {"id": 4, "name": "roi_tei_calculation", "description": "ROI/TEI расчет"},
+    {"id": 5, "name": "unit_economics", "description": "Юнит-экономика"},
+    {"id": 6, "name": "token_costs", "description": "Расчет затрат на токены"},
+    {"id": 7, "name": "winner_curse", "description": "Проклятие победителя"},
+    {"id": 8, "name": "evpi_calculation", "description": "EVPI расчет"},
+    {"id": 9, "name": "real_options", "description": "Реальные опционы"},
+    {"id": 10, "name": "nmck_calculation", "description": "Расчет НМЦК"},
+    {"id": 11, "name": "budget_justification", "description": "Обоснование бюджета"}
+  ]
+}
