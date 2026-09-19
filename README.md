@@ -21,7 +21,7 @@ economy-of-informatization-exam/
 │
 ├── notebooks/                      # Jupyter Notebook с решениями задач
 │   ├── task_01_attention_economy.ipynb
-│   ├── task_02_cocomo_calculation.ipynb
+│   ├── task_02_task_02_critical_mass_social_network.ipynb
 │   ├── task_03_tco_analysis.ipynb
 │   ├── task_04_roi_tei_calculation.ipynb
 │   ├── task_05_unit_economics.ipynb
@@ -174,27 +174,6 @@ uv sync --upgrade
 2. Выберите ядро `economy-exam` в правом верхнем углу ноутбука.
 3. Выполняйте ячейки последовательно (Shift+Enter).
 
-### Генерация отчетов
-
-После выполнения всех расчетов в ноутбуке выполните ячейку с генерацией отчета. Отчеты сохраняются в папку `reports/` в формате `.txt`.
-
-```python
-# Пример вызова генерации отчета
-from datetime import datetime
-# ... код генерации отчета ...
-with open('../reports/task_XX_report.txt', 'w', encoding='utf-8') as f:
-    f.write(report_content)
-```
-
-### Экспорт результатов
-
-Результаты расчетов можно экспортировать в CSV:
-
-```python
-df_results.to_csv('../reports/task_XX_results.csv', index=False)
-```
-
----
 
 ## Особенности работы с `uv` в PyCharm
 
