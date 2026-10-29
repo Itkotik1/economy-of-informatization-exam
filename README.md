@@ -24,23 +24,7 @@ economy-of-informatization-exam/
 │   ├── task_01_attention_economy.ipynb
 │   ├── task_02_task_02_critical_mass_social_network.ipynb
 │   ├── task_03_AI_Copywriter_Pricing_Strategy.ipynb
-│   
-│
-├── data/                           # Исходные данные
-│   ├── reference_data.csv          # Справочные данные
-│   └── tasks_config.json           # Конфигурация задач
-│
-├── reports                      # Экспортированные отчеты
-│   
-│
-├── utils/                          # Вспомогательные функции
-│   ├── __init__.py
-│   ├── calculations.py             # Общие функции расчетов
-│   └── visualization.py            # Шаблоны для графиков
-│
-└── docs/                           # Документация
-    ├── methodology.md              # Методологические пояснения
-    └── glossary.md                 # Глоссарий терминов
+
 ```
 
 ---
